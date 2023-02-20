@@ -1,1 +1,9 @@
-This is file for rebase feature.
+First line f1
+
+second
+
+3rd line
+
+6th line
+
+7th line 
